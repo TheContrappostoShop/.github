@@ -1,12 +1,14 @@
-## Hi there 👋
+# TheContrappostoShop [![Discord Link](https://discordapp.com/api/guilds/881628699500359731/widget.png?style=shield)](https://discord.gg/GFUn9gwRsj)
+## Hey there! 👋
+We're a group of people from around the globe, based in Canda.
+<br><br>
+Our project is the Prometheus mSLA printer, a resin printer that aims to be fully open-source.
+This consists of:
+- The [CAD](https://github.com/TheContrappostoShop/Prometheus-MSLA)
+- The [Apollo Controller Board](https://github.com/TheContrappostoShop/Apollo)
+- The [Custom OS](https://github.com/TheContrappostoShop/PrometheusOS)
+- The Backend (WIP)
+- The Frontend (WIP)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We try to aim to stay as true to open-source as possible! As this is a WIP effort,
+not all Licenses might be abiding by the requirements at all times.
