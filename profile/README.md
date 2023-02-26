@@ -7,7 +7,7 @@ This consists of:
 - The [CAD](https://github.com/TheContrappostoShop/Prometheus-MSLA)
 - The [Apollo Controller Board](https://github.com/TheContrappostoShop/Apollo)
 - The [Custom OS](https://github.com/TheContrappostoShop/PrometheusOS)
-- The Backend (WIP)
+- The Backend, [Odyssey](https://github.com/TheContrappostoShop/Odyssey)
 - The Frontend (WIP)
 
 We try to aim to stay as true to open-source as possible! As this is a WIP effort,
