@@ -8,7 +8,7 @@ This consists of:
 - The [Apollo Controller Board](https://github.com/TheContrappostoShop/Apollo)
 - The [Custom OS](https://github.com/TheContrappostoShop/PrometheusOS)
 - The Backend, [Odyssey](https://github.com/TheContrappostoShop/Odyssey)
-- The Frontend (WIP)
+- The Frontend, Orion (Internal Beta)
 
 We try to aim to stay as true to open-source as possible! As this is a WIP effort,
 not all Licenses might be abiding by the requirements at all times.
